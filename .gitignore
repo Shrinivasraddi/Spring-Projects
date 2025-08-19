@@ -1,6 +1,6 @@
 SignUp/BackendSpring/HELP.md
 SignUp/BackendSpring/target/
-SignUp/BackendSpring/.mvn/wrapper/maven-wrapper.jar
+
 !SignUp/BackendSpring/**/src/main/**/target/
 !SignUp/BackendSpring/**/src/test/**/target/
 
