@@ -1,0 +1,35 @@
+SignUp/BackendSpring/HELP.md
+SignUp/BackendSpring/target/
+SignUp/BackendSpring/.mvn/wrapper/maven-wrapper.jar
+!SignUp/BackendSpring/**/src/main/**/target/
+!SignUp/BackendSpring/**/src/test/**/target/
+
+### STS ###
+SignUp/BackendSpring/.apt_generated
+SignUp/BackendSpring/.classpath
+SignUp/BackendSpring/.factorypath
+SignUp/BackendSpring/.project
+SignUp/BackendSpring/.settings
+SignUp/BackendSpring/.springBeans
+SignUp/BackendSpring/.sts4-cache
+
+### IntelliJ IDEA ###
+SignUp/.idea
+SignUp/BackendSpring/*.iws
+SignUp/BackendSpring/*.iml
+SignUp/BackendSpring/*.ipr
+
+### NetBeans ###
+SignUp/BackendSpring/nbproject/private/
+SignUp/BackendSpring/nbbuild/
+SignUp/BackendSpring/dist/
+SignUp/BackendSpring/nbdist/
+SignUp/BackendSpring/.nb-gradle/
+SignUp/BackendSpring/build/
+!SignUp/BackendSpring/**/src/main/**/build/
+!SignUp/BackendSpring/**/src/test/**/build/
+
+### VS Code ###
+SignUp/BackendSpring/.vscode/
+
+SignUp/BackendSpring/src/main/resources/application.properties
