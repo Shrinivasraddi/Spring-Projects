@@ -23,3 +23,8 @@ public class UserController {
     }
 }
 
+@GetMapping("/ping")
+public String ping() {
+    return "pong";
+}
+
