@@ -21,10 +21,9 @@ public class UserController {
         repo.save(user);
         return "User registered successfully!";
     }
-}
 
-@GetMapping("/ping")
-public String ping() {
-    return "pong";
+    @GetMapping("/ping")
+    public String ping() {
+        return "pong";
+    }
 }
-
